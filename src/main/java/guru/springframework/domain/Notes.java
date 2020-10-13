@@ -35,7 +35,10 @@ public class Notes {
         return notes;
     }
 
-    public void setNotes(String notes) {
+    public void setRecipeNotes(String notes) {
         this.notes = notes;
     }
+
+//    public void setRecipeNotes(String s) {
+//    }
 }
